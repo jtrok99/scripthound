@@ -83,7 +83,7 @@ export default function Sidebar() {
           <LogOut className="w-4 h-4" />
           Sign Out
         </button>
-        <p className="text-xs text-gray-500 mt-3 px-3">PawPrint Intelligence LLC<br />scripthound.com</p>
+        <p className="text-xs text-gray-500 mt-3 px-3">PawPrint Intelligence LLC<br />scripthound.vet</p>
       </div>
     </aside>
   )

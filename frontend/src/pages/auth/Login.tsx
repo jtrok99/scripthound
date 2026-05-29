@@ -91,7 +91,7 @@ export default function Login() {
         </form>
 
         <p className="text-center text-xs text-gray-400 mt-8">
-          PawPrint Intelligence LLC — scripthound.com
+          PawPrint Intelligence LLC — scripthound.vet
         </p>
       </div>
     </div>
